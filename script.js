@@ -2,13 +2,13 @@ const messages = [
     "Jesteś pewna?",
     "Na milion procent??",
     "A może jednak???",
-    "Skarbie prosze :c...",
-    "A może to jeszcze przemyślisz??!",
+    "Skarbie prosze :c",
+    "A może to jeszcze przemyślisz??",
     "Jeśli naprawdę nie to będzie mi bardzo smutno :c",
     "Będę bardzo smutny...",
     "Bardzo bardzo bardzo smutny...",
-    "No dobrze, przestanę pytać...",
-    "Żartowałem nie odpuszczę c: ❤️"
+    "No dobrze, przestanę pytać😿",
+    "Żartowałem nie odpuszczę 😼❤️"
 ];
 
 let messageIndex = 0;
